@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Utilidades</string>
+    <string name="title_calculadora_luz">Calculadora de Luz</string>
+    <string name="label_config_ciclo">Configuración del Ciclo</string>
+    <string name="label_sistema_6x3">Sistema 6×3</string>
+    <string name="tag_activo">ACTIVO</string>
+    <string name="label_inicio_ciclo">Inicio del Ciclo</string>
+    <string name="btn_editar">Editar</string>
+    <string name="chip_hoy">Hoy</string>
+    <string name="chip_manana">Mañana</string>
+    <string name="title_cronograma">Cronograma Diario</string>
+    <string name="label_luz">Luz</string>
+    <string name="label_sin_luz">Sin Luz</string>
+    <string name="label_total_diario">Total diario:</string>
+    <string name="format_total_luz_corte">%1$dh Luz / %2$dh Corte</string>
+    <string name="nav_hub">Hub</string>
+    <string name="nav_luz">Luz</string>
+    <string name="nav_mas">Más</string>
+    
+    <string name="title_config_fecha">Configurar Fecha de Inicio</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="label_proximas_utilidades">Próximas utilidades</string>
+    <string name="desc_proximas_utilidades">Nuevas utilidades y herramientas se agregarán en el futuro como módulos independientes, sin afectar las existentes.</string>
+    <string name="title_hub">Hub de Utilidades</string>
+    <string name="sub_hub">Tus herramientas en un solo lugar</string>
+    <string name="label_crecer">Diseñado para crecer:</string>
+</resources>

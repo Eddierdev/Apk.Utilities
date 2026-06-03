@@ -1,0 +1,6 @@
+{
+  "name": "Utilidades",
+  "description": "Calculadora de luz rotativa 6x3 y utilidades del día a día con diseño Sleek Interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
