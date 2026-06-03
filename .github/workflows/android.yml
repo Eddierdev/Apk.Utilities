@@ -4,15 +4,12 @@ on:
   push:
     branches: [ "main" ]
 
-# Aquí añadimos el truco para obligar a usar Node 24 y quitar el aviso
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
-
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+    # Actualizado a v4 con parches recientes o v5 si está disponible (v4 actual suele bastar si quitamos el force)
     - uses: actions/checkout@v4
     
     - name: set up JDK 17
